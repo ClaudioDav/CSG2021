@@ -1,0 +1,63 @@
+.normaletext {
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+    text-align: left;
+    padding-left: 250px;
+    padding-right: 700px;
+}
+/* padding van https://www.youtube.com/watch?v=rIO5326FgPE */
+
+.wbi{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+}
+.inleiding {
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.overmij {
+    text-align: center;
+    color: rgb(0, 115, 192);
+    font-size: 65px;
+    background-color: rgb(255, 255, 255);
+    letter-spacing: 20px;
+    word-spacing: 20px;
+    margin-top: 0px;
+}
+
+/* spacing van: https://www.youtube.com/watch?v=kmniY2FA5Rc */
+
+
+
+body {
+    background-color: rgb(0, 115, 192);
+    font-family: 'Source Sans Pro', sans-serif;
+}
+/* lettertype gekopieerd van: https://fonts.google.com/ */
+
+.kopje {
+    color: white;
+    text-align: left;
+    font-size: 40px;
+    padding-left: 250px;
+    padding-right: 700px;
+}
+
+.lijst {
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+    padding-left: 275px;
+    padding-right: 700px;
+}
+
+.foto {
+    width: 1887px;
+}
+a {
+    color: white;
+}
